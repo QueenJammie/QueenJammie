@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jammie Lachance-Côté, alias @QueenJammie
 - 👀 I’m interested in working on my passion, front-end engeneering, maybe back-end as well in a few times
-- 🌱 I’m currently learning how to host my websites
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ... we'll see!
 - 📫 How to reach me: email adress; jammie.lacc@outlook.com
 
