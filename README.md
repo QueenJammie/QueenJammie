@@ -1,6 +1,6 @@
 - 👋 Bonjour! Je suis Jammie Lachance-Côté, alias @QueenJammie
 - Hi, I’m Jammie Lachance-Côté, alias @QueenJammie
-- 👀 En automne, je vais commencer les études au Cégep de Sherbrooke dans une technique en informatique pour finalement devenir une full stack developer, ce que je suis déjà mais bon, je m'amuse!
+- 👀 En automne, je vais retourner aux études, au Cégep de Sherbrooke dans une technique en informatique pour finalement devenir une full stack developer, ce que je suis déjà mais bon, je m'amuse!
 - In fall, I'll start studies at Cegep of Sherbrooke in computer technology to become a full stack engeneer, which I'm already but hey, I have fun!
 - 🌱 Je pratique actuellement le SQL, d'autres technique en PHP et le Javascript avec React.
 - I'm currently working on SQL, other techniques in PHP and JS with React.
